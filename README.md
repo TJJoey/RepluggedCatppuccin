@@ -2,4 +2,4 @@
 
 ![Discord Theme Preview](assets/mocha.webp)
 
-[Full credit](https://raw.githubusercontent.com/catppuccin/discord)
+[Full credit](https://github.com/catppuccin/discord)
