@@ -1,20 +1,16 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "com.github.TJJoey.RepluggedCatppuccin",
+  "name": "Catppuccin Mocha",
+  "description": "Soothing pastel theme for the high-spirited!",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "TJJoey"
   },
-  "version": "1.0.0",
-  "updater": {
-    "type": "github",
-    "id": "replugged-org/theme-template"
-  },
+  "version": "0.1.0",
   "license": "MIT",
   "type": "replugged-theme",
   "main": "src/main.css",
-  "source": "https://github.com/replugged-org/theme-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "source": "https://github.com/TJJoey/RepluggedCatppuccin",
+  "image": [
+    "https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"
+  ]
 }

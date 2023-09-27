@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
-  "version": "1.0.0",
-  "description": "A theme template",
+  "name": "catppuccin-mocha",
+  "version": "0.1.0",
+  "description": "Soothing pastel theme for the high-spirited!",
   "engines": {
     "node": ">=18.0.0",
     "pnpm": ">=8.0.0"
